@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arifnrsk, you can call me Arif
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data-related work
 - 🌱 I'm currently majoring in Computer Science
 
 <!---
